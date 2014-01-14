@@ -3,7 +3,7 @@ Title: Git Paper
 Author: Chris Lee 
 
 Introduction
-
+Some text here, blah blah blah......
 Conclusions
 
 References
